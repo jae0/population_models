@@ -1,0 +1,12 @@
+title: Population models
+# description: This is where I share my thoughts
+author: Jae S. Choi
+remote_theme: zendesk/jekyll-theme-zendesk-garden@main
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+sidebar:
+  - index 
+  - idle_thoughts
+sidebar_label: Navigation 
+search_enabled: true
+auto_page_title: true
